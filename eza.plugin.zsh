@@ -5,7 +5,7 @@ if ! type eza >/dev/null 2>&1; then
   return 1
 fi
 
-alias ls='eza -Fgh --group-directories-first --git --git-ignore --icons --color-scale --hyperlink'
+alias ls='eza -Fgh --group-directories-first --git --git-ignore --icons --color-scale all --hyperlink'
 alias lh='ls -d .*'
 alias lD='ls -D'
 alias lc='ls -1'
