@@ -32,10 +32,10 @@ zsh plugin manager which is `$ZSH_CUSTOM`, the following is for
 git clone https://github.com/TwoPizza9621536/zsh-eza.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/eza
 ```
 
-Finally, add exa to the plugins array of your zshrc file:
+Finally, add eza to the plugins array of your zshrc file:
 
 ```bash
-plugins=(... exa)
+plugins=(... eza)
 ```
 
 ### Configuration Options
