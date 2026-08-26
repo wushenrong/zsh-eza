@@ -35,3 +35,9 @@ fi
 
 alias lt='ls -T'
 alias tree=lt
+
+
+echo "This project is unmaintained and will be deleted on 2027-08-25."
+echo "Please copy any alias you like to use into your .zshrc file."
+
+return 1
