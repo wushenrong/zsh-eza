@@ -1,4 +1,7 @@
-# zsh-eza
+# zsh-eza (Unmaintained)
+
+This project is unmaintained, you are better off copying any aliases from the plugin into
+your `.zshrc` file. This repository will be deleted on `2027-08-25`.
 
 A zsh aliases plugin for [eza](https://github.com/eza-community/eza),
 a replacement for exa.
